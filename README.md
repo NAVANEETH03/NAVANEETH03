@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navaneeth</h1>
-<h3 align="center">AI Engineer| Pythn Develper | Data Engineer</h3>
+<h3 align="center">AI Engineer| Python Develper | Data Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navaneeth03" alt="navaneeth03" /></a> </p>
 
